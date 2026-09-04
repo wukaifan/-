@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "registries": {
+    "reactbits-starter": {
+      "name": "React Bits Starter",
+      "url": "https://pro.reactbits.dev/r/{name}.json",
+      "authorization": "Bearer ${REACTBITS_LICENSE_KEY}"
+    },
+    "reactbits-pro": {
+      "name": "React Bits Pro",
+      "url": "https://pro.reactbits.dev/r/{name}.json",
+      "authorization": "Bearer ${REACTBITS_LICENSE_KEY}"
+    }
+  }
+}
