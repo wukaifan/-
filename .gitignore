@@ -7,5 +7,8 @@ yarn-debug.log*
 yarn-error.log*
 .vite
 
+# 本地导出的 PDF 等交付物，不上传到公开仓库
+output/
+
 # 未使用的轮播原图（压缩版已用于站点）
 /src/assets/work/case-??.jpg

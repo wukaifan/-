@@ -16,9 +16,23 @@ import caseCrayonsThumb from "../assets/work/case-crayons-thumb.jpg";
 import caseMeshBagThumb from "../assets/work/case-mesh-bag-thumb.jpg";
 import caseLinedPensThumb from "../assets/work/case-lined-pens-thumb.jpg";
 import caseBabyCare from "../assets/work/case-baby-care.jpg";
-import caseMultiSet from "../assets/work/case-multi-set.jpg";
 import caseBabyCareThumb from "../assets/work/case-baby-care-thumb.jpg";
-import caseMultiSetThumb from "../assets/work/case-multi-set-thumb.jpg";
+import caseMulti01 from "../assets/work/case-multi-01.jpg";
+import caseMulti02 from "../assets/work/case-multi-02.jpg";
+import caseMulti03 from "../assets/work/case-multi-03.jpg";
+import caseMulti04 from "../assets/work/case-multi-04.jpg";
+import caseMulti05 from "../assets/work/case-multi-05.jpg";
+import caseMulti06 from "../assets/work/case-multi-06.jpg";
+import caseMulti07 from "../assets/work/case-multi-07.jpg";
+import caseMulti08 from "../assets/work/case-multi-08.jpg";
+import caseMulti01Thumb from "../assets/work/case-multi-01-thumb.jpg";
+import caseMulti02Thumb from "../assets/work/case-multi-02-thumb.jpg";
+import caseMulti03Thumb from "../assets/work/case-multi-03-thumb.jpg";
+import caseMulti04Thumb from "../assets/work/case-multi-04-thumb.jpg";
+import caseMulti05Thumb from "../assets/work/case-multi-05-thumb.jpg";
+import caseMulti06Thumb from "../assets/work/case-multi-06-thumb.jpg";
+import caseMulti07Thumb from "../assets/work/case-multi-07-thumb.jpg";
+import caseMulti08Thumb from "../assets/work/case-multi-08-thumb.jpg";
 import posterCampus from "../assets/work/poster-campus.jpg";
 import posterTouch17 from "../assets/work/poster-touch17.png";
 import posterAnniv from "../assets/work/poster-anniv.jpg";
@@ -41,16 +55,19 @@ import posterDeepseaThumb from "../assets/work/poster-deepsea-thumb.jpg";
 import posterIslandThumb from "../assets/work/poster-island-thumb.jpg";
 import posterDouble11 from "../assets/work/poster-double11.jpg";
 import posterDouble11Thumb from "../assets/work/poster-double11-thumb.jpg";
-import kv618Baby from "../assets/work/kv-618-baby.jpg";
 import kvWomenDay from "../assets/work/kv-women-day.jpg";
 import kv618Skincare from "../assets/work/kv-618-skincare.jpg";
 import kvChildrenDay from "../assets/work/kv-children-day.jpg";
 import kvDouble11New from "../assets/work/kv-double11-new.jpg";
+import kv618Carnival from "../assets/work/kv-618-carnival.jpg";
+import kv618Touchmark from "../assets/work/kv-618-touchmark.jpg";
 import kv618BabyThumb from "../assets/work/kv-618-baby-thumb.jpg";
 import kvWomenDayThumb from "../assets/work/kv-women-day-thumb.jpg";
 import kv618SkincareThumb from "../assets/work/kv-618-skincare-thumb.jpg";
 import kvChildrenDayThumb from "../assets/work/kv-children-day-thumb.jpg";
 import kvDouble11NewThumb from "../assets/work/kv-double11-new-thumb.jpg";
+import kv618CarnivalThumb from "../assets/work/kv-618-carnival-thumb.jpg";
+import kv618TouchmarkThumb from "../assets/work/kv-618-touchmark-thumb.jpg";
 import otherAnniv from "../assets/work/other-anniv.png";
 import otherRecruit from "../assets/work/other-recruit.jpg";
 import otherNewyear from "../assets/work/other-newyear.png";
@@ -256,14 +273,84 @@ export const mainDetailArt = [
     thumb: caseBabyCareThumb,
   },
   {
-    title: "多品类电商主图合集",
-    brand: "综合",
-    category: "电商视觉 · 合集",
+    title: "软头透彩丙烯马克笔",
+    brand: "TouchMark 泰驰马克",
+    category: "电商视觉 · 文具",
     year: "2026",
-    tags: ["主图设计", "详情页", "多品类"],
-    desc: "覆盖马克笔、个护、咖啡礼盒、开放式耳机等多类目的主图合集，用统一的视觉秩序承载不同卖点。",
-    img: caseMultiSet,
-    thumb: caseMultiSetThumb,
+    tags: ["主图设计", "详情页", "儿童文具"],
+    desc: "软头透彩 + 老师推荐，用明亮场景放大马克笔的色彩表现与儿童友好卖点。",
+    img: caseMulti01,
+    thumb: caseMulti01Thumb,
+  },
+  {
+    title: "易水洗儿童白板笔",
+    brand: "TouchMark 泰驰马克",
+    category: "电商视觉 · 文具",
+    year: "2026",
+    tags: ["主图设计", "详情页", "儿童用品"],
+    desc: "把「可水洗」「色彩鲜艳易涂易擦」卖点前置，建立家长放心、孩子好用的白板笔体验。",
+    img: caseMulti02,
+    thumb: caseMulti02Thumb,
+  },
+  {
+    title: "GAO DONG 蜂蜡润唇膏",
+    brand: "GAO DONG",
+    category: "电商视觉 · 个护",
+    year: "2026",
+    tags: ["主图设计", "详情页", "个护视觉"],
+    desc: "30s 速淡纹、保湿 3 天不干燥，天然蜂蜡维 E 滋养，用清新绿调传递温和修护。",
+    img: caseMulti03,
+    thumb: caseMulti03Thumb,
+  },
+  {
+    title: "RUNMUI 氨基酸净颜洗面奶",
+    brand: "RUNMUI",
+    category: "电商视觉 · 个护",
+    year: "2026",
+    tags: ["主图设计", "详情页", "个护视觉"],
+    desc: "云朵绵柔泡、轻柔净毛孔，突出「不泛红不紧绷不假滑」的氨基酸温和清洁体验。",
+    img: caseMulti04,
+    thumb: caseMulti04Thumb,
+  },
+  {
+    title: "明谦 MQ COFFEE 深烘焙咖啡礼盒",
+    brand: "明谦 MQ COFFEE",
+    category: "电商视觉 · 食品",
+    year: "2026",
+    tags: ["主图设计", "详情页", "食品视觉"],
+    desc: "天猫 618 大促主图，「深烘焙油脂王」用浓郁油脂与立减优惠强化购买理由。",
+    img: caseMulti05,
+    thumb: caseMulti05Thumb,
+  },
+  {
+    title: "韶音 OPENFIT T910 开放式耳机",
+    brand: "SHOKZ 韶音",
+    category: "电商视觉 · 数码",
+    year: "2026",
+    tags: ["主图设计", "详情页", "数码视觉"],
+    desc: "开放式运动耳机大促主图，把「久戴不胀痛、行动不掉落、开放不漏音」与直降 200 讲清楚。",
+    img: caseMulti06,
+    thumb: caseMulti06Thumb,
+  },
+  {
+    title: "抱抱桶软头丙烯马克笔",
+    brand: "TouchMark 泰驰马克",
+    category: "电商视觉 · 文具",
+    year: "2026",
+    tags: ["主图设计", "详情页", "多材质"],
+    desc: "抱抱桶装丙烯马克笔，「铅笔、石头、木材、布料都可绘画」，突出多材质创作。",
+    img: caseMulti07,
+    thumb: caseMulti07Thumb,
+  },
+  {
+    title: "高弹软头丙烯马克笔",
+    brand: "TouchMark 泰驰马克",
+    category: "电商视觉 · 文具",
+    year: "2026",
+    tags: ["主图设计", "详情页", "儿童文具"],
+    desc: "「覆盖力强、高弹软头、万物可画」卖点分层，用高饱和色彩放大产品表现力。",
+    img: caseMulti08,
+    thumb: caseMulti08Thumb,
   },
 ];
 
@@ -384,16 +471,6 @@ export const posterArt = [
 // 首页视觉 · 二级页内容
 export const homeKvArt = [
   {
-    title: "618 与你狂欢 · 年中盛典",
-    brand: "CareBaby",
-    category: "首页视觉 · 大促",
-    year: "2026",
-    tags: ["618", "3D 视觉", "母婴"],
-    desc: "以 618 年中盛典为主题的主视觉，把「全场优惠 5 折起」放进热闹欢快的购物场景。",
-    img: kv618Baby,
-    thumb: kv618BabyThumb,
-  },
-  {
     title: "38 女神节 · 为爱焕新",
     brand: "木子田",
     category: "首页视觉 · 节日",
@@ -432,6 +509,26 @@ export const homeKvArt = [
     desc: "双11 新品首发主视觉，以「满 300 减 150」的强利益点与城市场景制造热度。",
     img: kvDouble11New,
     thumb: kvDouble11NewThumb,
+  },
+  {
+    title: "618 与你狂欢 · 年中盛典",
+    brand: "智可优",
+    category: "首页视觉 · 大促",
+    year: "2026",
+    tags: ["618", "3D 视觉", "母婴"],
+    desc: "以 618 年中盛典为主题的主视觉，把「全场优惠 5 折起」放进热闹欢快的亲子购物场景，突出母婴好物的温度。",
+    img: kv618Carnival,
+    thumb: kv618CarnivalThumb,
+  },
+  {
+    title: "618 夏日大促 · 清凉狂欢",
+    brand: "TouchMark",
+    category: "首页视觉 · 大促",
+    year: "2026",
+    tags: ["618", "3D 视觉", "画材"],
+    desc: "以夏日水乐园为场景的品牌大促主视觉，把「全场满 300 减 50、爆款 5 折起」融进缤纷画材与清凉氛围。",
+    img: kv618Touchmark,
+    thumb: kv618TouchmarkThumb,
   },
 ];
 

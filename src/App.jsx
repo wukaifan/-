@@ -35,7 +35,7 @@ export default function App() {
   }, []);
 
   if (page === "main") {
-    return <DetailPage />;
+    return <DetailPage masonry />;
   }
 
   if (page === "posters") {
