@@ -16,10 +16,8 @@ import caseCrayonsThumb from "../assets/work/case-crayons-thumb.jpg";
 import caseMeshBagThumb from "../assets/work/case-mesh-bag-thumb.jpg";
 import caseLinedPensThumb from "../assets/work/case-lined-pens-thumb.jpg";
 import caseBabyCare from "../assets/work/case-baby-care.jpg";
-import caseEarbuds from "../assets/work/case-earbuds.jpg";
 import caseMultiSet from "../assets/work/case-multi-set.jpg";
 import caseBabyCareThumb from "../assets/work/case-baby-care-thumb.jpg";
-import caseEarbudsThumb from "../assets/work/case-earbuds-thumb.jpg";
 import caseMultiSetThumb from "../assets/work/case-multi-set-thumb.jpg";
 import posterCampus from "../assets/work/poster-campus.jpg";
 import posterTouch17 from "../assets/work/poster-touch17.png";
@@ -256,16 +254,6 @@ export const mainDetailArt = [
     desc: "以「温和守护」为主线，从成分、功效到使用场景逐层展开，建立 0-3 岁宝妈的信赖与安全感。",
     img: caseBabyCare,
     thumb: caseBabyCareThumb,
-  },
-  {
-    title: "ANL Pro 无线降噪耳机 · 声临其境",
-    brand: "ANL Pro",
-    category: "电商视觉 · 3C",
-    year: "2026",
-    tags: ["主图设计", "详情页", "3C 数码"],
-    desc: "从降噪参数到人体工学，用冷静的科技质感与场景示范，把「声临其境」的产品力讲明白。",
-    img: caseEarbuds,
-    thumb: caseEarbudsThumb,
   },
   {
     title: "多品类电商主图合集",
