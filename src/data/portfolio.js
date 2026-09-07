@@ -44,13 +44,11 @@ import posterIslandThumb from "../assets/work/poster-island-thumb.jpg";
 import posterDouble11 from "../assets/work/poster-double11.jpg";
 import posterDouble11Thumb from "../assets/work/poster-double11-thumb.jpg";
 import kv618Baby from "../assets/work/kv-618-baby.jpg";
-import kvDouble11Pre from "../assets/work/kv-double11-pre.jpg";
 import kvWomenDay from "../assets/work/kv-women-day.jpg";
 import kv618Skincare from "../assets/work/kv-618-skincare.jpg";
 import kvChildrenDay from "../assets/work/kv-children-day.jpg";
 import kvDouble11New from "../assets/work/kv-double11-new.jpg";
 import kv618BabyThumb from "../assets/work/kv-618-baby-thumb.jpg";
-import kvDouble11PreThumb from "../assets/work/kv-double11-pre-thumb.jpg";
 import kvWomenDayThumb from "../assets/work/kv-women-day-thumb.jpg";
 import kv618SkincareThumb from "../assets/work/kv-618-skincare-thumb.jpg";
 import kvChildrenDayThumb from "../assets/work/kv-children-day-thumb.jpg";
@@ -406,16 +404,6 @@ export const homeKvArt = [
     desc: "以 618 年中盛典为主题的主视觉，把「全场优惠 5 折起」放进热闹欢快的购物场景。",
     img: kv618Baby,
     thumb: kv618BabyThumb,
-  },
-  {
-    title: "双11 预售 · 限时抢购",
-    brand: "GAODING",
-    category: "首页视觉 · 大促",
-    year: "2026",
-    tags: ["双11", "3D 视觉", "预售"],
-    desc: "双11 预售主题视觉，用「限时抢购」的紧迫感与宠粉福利，拉升首发氛围。",
-    img: kvDouble11Pre,
-    thumb: kvDouble11PreThumb,
   },
   {
     title: "38 女神节 · 为爱焕新",
