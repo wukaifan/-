@@ -33,6 +33,7 @@ export default function Projects() {
                     src={project.coverImage}
                     alt={project.title}
                     loading="lazy"
+                    decoding="async"
                   />
                 )}
                 <span className="project__cover-num">

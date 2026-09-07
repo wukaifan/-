@@ -31,7 +31,7 @@ export default function About() {
         <div className="about__grid">
           <div className="about__portrait" data-reveal>
             <div className="portrait-card">
-              <img src={portrait} alt={`${profile.name} 人像`} />
+              <img src={portrait} alt={`${profile.name} 人像`} loading="lazy" decoding="async" />
               <div className="portrait-card__tint" aria-hidden="true" />
               <div className="portrait-card__frame" aria-hidden="true" />
               <div className="portrait-card__tag">

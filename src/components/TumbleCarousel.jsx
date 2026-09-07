@@ -157,6 +157,7 @@ export default function TumbleCarousel({
                       alt={item.title}
                       draggable={false}
                       loading="lazy"
+                      decoding="async"
                     />
                     {showTitles && (
                       <div

@@ -57,7 +57,7 @@ export default function DetailPage({
               onClick={() => setExpanded(art)}
             >
               <div className="detailpage__thumb">
-                <img src={art.thumb} alt={art.title} loading="lazy" />
+                <img src={art.thumb} alt={art.title} loading="lazy" decoding="async" />
                 <span className="detailpage__zoom" aria-hidden="true">
                   +
                 </span>
@@ -91,7 +91,7 @@ export default function DetailPage({
             ×
           </button>
           <div className="detailpage__view-wrap">
-            <img src={expanded.img} alt={expanded.title} />
+            <img src={expanded.img} alt={expanded.title} decoding="async" />
           </div>
           <div className="detailpage__view-caption">
             {expanded.title} · {expanded.brand}

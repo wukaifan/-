@@ -6,3 +6,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .vite
+
+# 未使用的轮播原图（压缩版已用于站点）
+/src/assets/work/case-??.jpg
