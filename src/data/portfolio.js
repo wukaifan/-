@@ -61,7 +61,6 @@ import kvChildrenDay from "../assets/work/kv-children-day.jpg";
 import kvDouble11New from "../assets/work/kv-double11-new.jpg";
 import kv618Carnival from "../assets/work/kv-618-carnival.jpg";
 import kv618Touchmark from "../assets/work/kv-618-touchmark.jpg";
-import kv618BabyThumb from "../assets/work/kv-618-baby-thumb.jpg";
 import kvWomenDayThumb from "../assets/work/kv-women-day-thumb.jpg";
 import kv618SkincareThumb from "../assets/work/kv-618-skincare-thumb.jpg";
 import kvChildrenDayThumb from "../assets/work/kv-children-day-thumb.jpg";
@@ -195,7 +194,7 @@ export const projects = [
     desc: "为店铺首页打造的大促主视觉，把活动氛围与品牌调性统一到首屏，第一时间抓住浏览者注意力。",
     cover: "ocean",
     link: "#kv",
-    coverImage: kv618BabyThumb,
+    coverImage: kv618TouchmarkThumb,
   },
   {
     title: "其他设计 · 多元落地",
