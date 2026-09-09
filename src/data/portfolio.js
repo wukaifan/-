@@ -65,7 +65,6 @@ import kv618CarnivalThumb from "../assets/work/kv-618-carnival-thumb.jpg";
 import kv618TouchmarkThumb from "../assets/work/kv-618-touchmark-thumb.jpg";
 import otherRecruit from "../assets/work/other-recruit.jpg";
 import otherStudy from "../assets/work/other-study.jpg";
-import otherAnnivThumb from "../assets/work/other-anniv-thumb.jpg";
 import otherRecruitThumb from "../assets/work/other-recruit-thumb.jpg";
 import otherStudyThumb from "../assets/work/other-study-thumb.jpg";
 import otherH5coop from "../assets/work/other-h5coop.jpg";
@@ -198,7 +197,7 @@ export const projects = [
     desc: "覆盖 KT 板、直播背景、线下物料、包装贴纸等多元设计，统一品牌调性，让每个触点都保持质感。",
     cover: "lime",
     link: "#others",
-    coverImage: otherAnnivThumb,
+    coverImage: otherDimooThumb,
   },
 ];
 
