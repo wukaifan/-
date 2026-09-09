@@ -63,20 +63,17 @@ import kvChildrenDayThumb from "../assets/work/kv-children-day-thumb.jpg";
 import kvDouble11NewThumb from "../assets/work/kv-double11-new-thumb.jpg";
 import kv618CarnivalThumb from "../assets/work/kv-618-carnival-thumb.jpg";
 import kv618TouchmarkThumb from "../assets/work/kv-618-touchmark-thumb.jpg";
-import otherAnniv from "../assets/work/other-anniv.png";
 import otherRecruit from "../assets/work/other-recruit.jpg";
-import otherNewyear from "../assets/work/other-newyear.png";
 import otherStudy from "../assets/work/other-study.jpg";
-import otherSpring from "../assets/work/other-spring.png";
-import otherSpringfestival from "../assets/work/other-springfestival.png";
-import otherChildren61 from "../assets/work/other-children61.png";
 import otherAnnivThumb from "../assets/work/other-anniv-thumb.jpg";
 import otherRecruitThumb from "../assets/work/other-recruit-thumb.jpg";
-import otherNewyearThumb from "../assets/work/other-newyear-thumb.jpg";
 import otherStudyThumb from "../assets/work/other-study-thumb.jpg";
-import otherSpringThumb from "../assets/work/other-spring-thumb.jpg";
-import otherSpringfestivalThumb from "../assets/work/other-springfestival-thumb.jpg";
-import otherChildren61Thumb from "../assets/work/other-children61-thumb.jpg";
+import otherH5coop from "../assets/work/other-h5coop.jpg";
+import otherDimoo from "../assets/work/other-dimoo.jpg";
+import other618house from "../assets/work/other-618house.jpg";
+import otherH5coopThumb from "../assets/work/other-h5coop-thumb.jpg";
+import otherDimooThumb from "../assets/work/other-dimoo-thumb.jpg";
+import other618houseThumb from "../assets/work/other-618house-thumb.jpg";
 
 export const profile = {
   name: "吴凯帆",
@@ -510,16 +507,6 @@ export const homeKvArt = [
 // 其他设计 · 二级页内容
 export const otherArt = [
   {
-    title: "TouchMark 17 周年盛典 · 爆款 1 折起",
-    brand: "TouchMark",
-    category: "其他设计 · 品牌",
-    year: "2026",
-    tags: ["周年盛典", "3D 视觉", "品牌"],
-    desc: "以热烈橙色与飘带礼盒营造盛典氛围，把「爆款 1 折起」的重量级福利讲得响亮。",
-    img: otherAnniv,
-    thumb: otherAnnivThumb,
-  },
-  {
     title: "春季招聘 · 职等你来",
     brand: "TouchMark",
     category: "其他设计 · 招聘",
@@ -528,16 +515,6 @@ export const otherArt = [
     desc: "把招聘岗位与职责做清晰的信息层级，用明快色调让「职等你来」更有人气。",
     img: otherRecruit,
     thumb: otherRecruitThumb,
-  },
-  {
-    title: "年货狂欢不打烊",
-    brand: "TouchMark",
-    category: "其他设计 · 节日",
-    year: "2026",
-    tags: ["年货节", "3D 视觉", "电商"],
-    desc: "用灯笼、福字与暖红底色做年货节主视觉，热闹且年味十足。",
-    img: otherNewyear,
-    thumb: otherNewyearThumb,
   },
   {
     title: "学霸养成进行时 · 春季招生",
@@ -550,34 +527,34 @@ export const otherArt = [
     thumb: otherStudyThumb,
   },
   {
-    title: "春风绘色 · 笔尖生花",
-    brand: "TouchMark",
-    category: "其他设计 · 主题",
+    title: "名门美业 · 合作需知",
+    brand: "名门",
+    category: "其他设计 · H5",
     year: "2026",
-    tags: ["春季", "3D 视觉", "主题"],
-    desc: "以清新春日与露营元素做主题视觉，把「笔尖生花」的诗意表达出来。",
-    img: otherSpring,
-    thumb: otherSpringThumb,
+    tags: ["H5", "合作规范", "美业"],
+    desc: "以黑金质感梳理美业门店参与抖音团购的三点合作要求，信息层级清晰、正式有分量。",
+    img: otherH5coop,
+    thumb: otherH5coopThumb,
   },
   {
-    title: "春节不打烊 · 物流不停",
-    brand: "TouchMark",
-    category: "其他设计 · 节日",
+    title: "DIMOO 宠物星球 · 梦境漫游",
+    brand: "梦幻主 MART",
+    category: "其他设计 · IP",
     year: "2026",
-    tags: ["春节", "3D 视觉", "电商"],
-    desc: "用红金配色的春节主视觉，传达「物流不停歇、好礼送到家」的决心与氛围。",
-    img: otherSpringfestival,
-    thumb: otherSpringfestivalThumb,
+    tags: ["DIMOO", "潮玩", "3D 视觉"],
+    desc: "以梦幻蓝调与 DIMOO 潮玩角色打造「宠物星球 · 梦境漫游」IP 主题，用治愈画风营造抽盒更新的好运氛围。",
+    img: otherDimoo,
+    thumb: otherDimooThumb,
   },
   {
-    title: "童心未泯 · 快乐 61",
-    brand: "TouchMark",
-    category: "其他设计 · 节日",
-    year: "2026",
-    tags: ["六一", "3D 视觉", "童趣"],
-    desc: "用清透海景与软萌角色打造六一主题，色调轻快、充满童真快乐。",
-    img: otherChildren61,
-    thumb: otherChildren61Thumb,
+    title: "618 年中购房节 · 钜惠风暴",
+    brand: "华润置地 · 天河润府",
+    category: "其他设计 · 房产",
+    year: "2025",
+    tags: ["618", "促销海报", "房产"],
+    desc: "以香槟金质感做 618 年中购房节促销信息页，把成交好礼层层排布，凸显项目卖点与置业紧迫感。",
+    img: other618house,
+    thumb: other618houseThumb,
   },
 ];
 
