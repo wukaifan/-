@@ -35,8 +35,6 @@ import caseMulti07Thumb from "../assets/work/case-multi-07-thumb.jpg";
 import caseMulti08Thumb from "../assets/work/case-multi-08-thumb.jpg";
 import posterCampus from "../assets/work/poster-campus.jpg";
 import posterTouch17 from "../assets/work/poster-touch17.png";
-import posterAnniv from "../assets/work/poster-anniv.jpg";
-import posterReward from "../assets/work/poster-reward.jpg";
 import posterUplive from "../assets/work/poster-uplive.jpg";
 import posterDouyin from "../assets/work/poster-douyin.jpg";
 import posterCapybara from "../assets/work/poster-capybara.jpg";
@@ -45,8 +43,6 @@ import posterDeepsea from "../assets/work/poster-deepsea.jpg";
 import posterIsland from "../assets/work/poster-island.jpg";
 import posterCampusThumb from "../assets/work/poster-campus-thumb.jpg";
 import posterTouch17Thumb from "../assets/work/poster-touch17-thumb.jpg";
-import posterAnnivThumb from "../assets/work/poster-anniv-thumb.jpg";
-import posterRewardThumb from "../assets/work/poster-reward-thumb.jpg";
 import posterUpliveThumb from "../assets/work/poster-uplive-thumb.jpg";
 import posterDouyinThumb from "../assets/work/poster-douyin-thumb.jpg";
 import posterCapybaraThumb from "../assets/work/poster-capybara-thumb.jpg";
@@ -355,26 +351,6 @@ export const mainDetailArt = [
 
 // 创意海报 · 二级页内容
 export const posterArt = [
-  {
-    title: "TouchMark 17 周年庆 · 感恩相伴",
-    brand: "TouchMark",
-    category: "品牌海报 · 周年",
-    year: "2026",
-    tags: ["周年庆", "活动海报", "促销"],
-    desc: "以周年庆为主线的活动海报，把感谢与福利一起讲清，色彩明亮、节奏欢快。",
-    img: posterAnniv,
-    thumb: posterAnnivThumb,
-  },
-  {
-    title: "博主合作奖励制度",
-    brand: "TouchMark",
-    category: "品牌海报 · 规则",
-    year: "2026",
-    tags: ["合作激励", "规则说明", "达人"],
-    desc: "把复杂的合作奖励规则梳理成清晰层级，信息密度高但不失秩序。",
-    img: posterReward,
-    thumb: posterRewardThumb,
-  },
   {
     title: "买家秀征集令 · 丰厚奖品",
     brand: "TouchMark",
